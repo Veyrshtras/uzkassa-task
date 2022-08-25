@@ -1,0 +1,14 @@
+--
+-- INSERT INTO company (id, created_date, last_modified_date, name, address, zip_code)
+-- VALUES (1, '2020-08-29T06:12:15', '2020-08-29T06:12:15', 'comp1', 'address1', 100201  );
+--
+--
+-- /* --------------filling in the table "employee"---------------------*/
+-- INSERT INTO employee (id, created_date, last_modified_date, name, username, password, email, status, company_id)
+-- VALUES (1, '2020-08-29T06:12:15', '2020-08-29T06:12:15', 'Aziz1', 'admin1', 'root1', 'aziz1@gmail.com',false,1);
+--
+-- INSERT INTO employee (id, created_date, last_modified_date, name, username, password, email, status, company_id)
+-- VALUES (2, '2020-08-29T06:12:15', '2020-08-29T06:12:15', 'Aziz2', 'admin2', 'root2', 'aziz2@gmail.com',false,1);
+--
+-- INSERT INTO employee (id, created_date, last_modified_date, name, username, password, email, status, company_id)
+-- VALUES (3, '2020-08-29T06:12:15', '2020-08-29T06:12:15', 'Aziz3', 'admin3', 'root3', 'aziz3@gmail.com',false,1);
